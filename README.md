@@ -34,3 +34,6 @@ Sur la page suivante, vérifiez que c'est bien la nouvelle URL qui est indiquée
 Ça y est, le processus est presque achevé. Sur la page suivante, Duplicator vous confirme que le site a bien été importé. Il vous demande aussi de faire attention de bien effacer de votre serveur les fichiers installer.php et l'archive ZIP. En effet, les laisser à la racine de votre site est extrêmement dangereux. Pour cette raison, veillez à bien laisser cochée l'option "Auto delete installer files after login (recommended)".
 
 Voilà, vous avez réussi à dubliqué notre site WordPress :) 
+
+## Contributeur
+Alexis Bally, Louis Nourry, Louis Chu, Cédric Jamme, William Mouchon
