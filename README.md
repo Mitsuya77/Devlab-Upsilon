@@ -2,7 +2,7 @@
  
  
 ##  préparer l’import dans votre
-Quelques manipulations vont être nécessaires avant de lancer l’INSTALLER téléchargé précédemment mais l’avantage est qu’il ne sera pas nécessaire d’installer WordPress dans le site destinataire, Duplicator s’occupe de tout.
+Quelques manipulations vont être nécessaires avant de lancer l’INSTALLER, il ne sera pas nécessaire d’installer WordPress, Duplicator s’occupe de tout.
 
 ## créer une base de données
 
